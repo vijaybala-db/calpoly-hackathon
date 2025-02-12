@@ -1,0 +1,16 @@
+We are arranging a Hackathon at Cal Poly in Los Angeles. The theme is "AI for a better future", and the event is co-sponsored by Avanade and Databricks. 
+
+We want participants to form groups of up to 5 people. Teams can pick from the following 2 topics:
+1. Media and Entertainment: Content discovery and search, content creation for ads and marketing, and player feedback.
+2. Healthcare: Medical information retrieval, including RAG over structured and unstructured data
+
+Solutions should be built using the Databricks Data Intelligence Platform. Where AI features are needed, Databricks Mosaic AI should be used. Participants will have access to a Databricks workspace in which to build their solutions. All work should be performed in the provided workspace.
+
+Please provide links to relevant Kaggle datasets that participants can use to prototype their solutions. Please make sure that these links actually work, and the datasets exist. These datasets should be industry-specific, relating to the "Media and Entertainment" and "Healthcare" domains.
+
+Hackathon deliverables include:
+1. Working Databricks code and demo
+2. 2-3 slides explaining the value proposition
+3. A brief video walkthrough 
+
+Please provide a detailed page in Markdown format that is intended for use by hackathon participants. This page should describe the hackathon, get them excited and give them instructions on how to participate.
