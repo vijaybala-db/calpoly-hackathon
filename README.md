@@ -4,7 +4,7 @@
 ---
 
 ## Overview
-Join us at Cal Poly in Los Angeles for an exciting 48-hour hackathon dedicated to using **Artificial Intelligence** to build solutions for a better future. This event is co-sponsored by **Avanade** and **Databricks**, bringing together students, developers, and problem-solvers to tackle impactful problems in the **Media & Entertainment** and **Healthcare** domains. We’ll provide a **Databricks** workspace where you can collaborate, build, and deploy your AI/ML solutions. 
+Join us at Cal Poly in Los Angeles for an exciting hackathon dedicated to using **Artificial Intelligence** to build solutions for a better future. This event is co-sponsored by **Avanade** and **Databricks**, bringing together students, developers, and problem-solvers to tackle impactful problems in the **Media & Entertainment** and **Healthcare** domains. We’ll provide a **Databricks** workspace where you can collaborate, build, and deploy your AI/ML solutions. 
 
 ---
 
@@ -63,11 +63,11 @@ Your solutions **must** be built on the **Databricks Data Intelligence Platform*
 
 - **Breast Cancer Wisconsin (Diagnostic) Data Set**  
   [https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)  
-  Structured data commonly used for classification tasks, suitable for machine learning pipeline demonstrations.
+  Structured data commonly used for classification tasks, suitable for demonstrating a full machine learning pipeline.
 
-- **PubMed RCT 200k Dataset**  
-  [https://www.kaggle.com/datasets/benhamner/pubmed-rct](https://www.kaggle.com/datasets/benhamner/pubmed-rct)  
-  A large dataset of research paper abstracts from PubMed, allowing you to explore text-based retrieval and summarization.
+- **Chest X-Ray Images (Pneumonia)**  
+  [https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)  
+  A dataset of chest X-ray images of pneumonia patients and healthy individuals. Ideal for image classification and other deep learning projects.
 
 ---
 
@@ -107,7 +107,7 @@ Each team must submit the following by the end of the hackathon:
 
 5. **Submit Your Project**  
    - Make sure to include your slides, code notebooks, and video walkthrough.
-   - A submission link will be provided on the final day of the hackathon.
+   - A submission link will be provided towards the end of the hackathon.
 
 ---
 
@@ -124,15 +124,16 @@ Each team must submit the following by the end of the hackathon:
 ---
 
 ## Prizes & Recognition
-- **Winners** will receive prizes (to be announced at kick-off) and will be showcased on our event website.
-- **Top Teams** may also get a chance to interview with Avanade and Databricks or have their solutions featured.
+Details on prizes and awards will be announced at the kick-off. Winning teams will be recognized, and their projects may be showcased during the hackathon closing ceremony.
 
 ---
 
-## Timeline
-- **Day 1:** Kick-off & Team Formation  
-- **Day 2:** Build, Code, and Prepare Deliverables  
-- **Day 3:** Final Demos & Submissions, followed by Awards
+## Timeline (TBD)
+- **Kick-Off & Team Formation:** [Date/Time Placeholder]
+- **Main Hacking Period:** [Date/Time Placeholder]
+- **Final Demos & Submissions:** [Date/Time Placeholder]
+
+We will confirm the exact schedule once registrations are finalized.
 
 ---
 

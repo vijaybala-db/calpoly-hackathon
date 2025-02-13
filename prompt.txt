@@ -14,3 +14,10 @@ Hackathon deliverables include:
 3. A brief video walkthrough 
 
 Please provide a detailed page in Markdown format that is intended for use by hackathon participants. This page should describe the hackathon, get them excited and give them instructions on how to participate.
+
+---
+The PubMed RCT dataset doesn't exist. Please replace it with a real one. 
+Also, we don't want to limit the hackathon to 3 days. Leave some placeholders for the timeline, but don't specify the dates yet.
+Also, remove the sentence "Top Teams may also get a chance to interview with Avanade and Databricks or have their solutions featured."
+
+Please provide an updated page with these changes
