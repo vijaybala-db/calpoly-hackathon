@@ -69,6 +69,8 @@ Your solutions **must** be built on the **Databricks Data Intelligence Platform*
   [https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)  
   A dataset of chest X-ray images of pneumonia patients and healthy individuals. Ideal for image classification and other deep learning projects.
 
+For additional datasets, please feel free to explore https://datasetsearch.research.google.com/
+
 ---
 
 ## Hackathon Deliverables
