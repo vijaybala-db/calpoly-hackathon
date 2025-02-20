@@ -126,7 +126,13 @@ Each team must submit the following by the end of the hackathon:
 ---
 
 ## Prizes & Recognition
-Details on prizes and awards will be announced at the kick-off. Winning teams will be recognized, and their projects may be showcased during the hackathon closing ceremony.
+We have a total of **$2,000** in gift cards to award the top teams. Prizes will be distributed as follows:
+
+1. **1st Place** – \$1,000 in gift cards (split among team members)  
+2. **2nd Place** – \$600 in gift cards (split among team members)  
+3. **3rd Place** – \$400 in gift cards (split among team members)
+
+All winning teams will also receive recognition during the closing ceremony. We may feature outstanding projects on our official channels (pending the approval of team members).
 
 ---
 
