@@ -72,11 +72,27 @@ Your solutions **must** be built on the **Databricks Data Intelligence Platform*
 For additional datasets, please feel free to explore https://datasetsearch.research.google.com/
 
 ---
+## Helpful Resources
+
+Please watch these videos to get oriented on the capabilities of the Databricks platform.
+
+Creating an AI/BI Genie Space (i.e. chat with your data using natural language)
+https://youtu.be/NrQqo9vxnJo
+
+AI/BI Dashboards: Intelligent Analytics for Real-World Data
+https://youtu.be/5ctfW6Ac0Ws
+
+Documentation: AI/BI
+https://docs.databricks.com/aws/en/ai-bi/
+
+
+---
 
 ## Hackathon Deliverables
 Each team must submit the following by the end of the hackathon:
-1. **Working Databricks Code & Demo**  
-   - All code should live in the provided Databricks workspace.
+1. **Working Databricks Artifacts & Demo**  
+   - Artifacts can be in the form of a Databricks AI/BI Genie Space OR AI/BI Dashboard OR code
+   - All artifacts should live in the provided Databricks workspace.
    - Demonstrate the functionality of your solution (screen share or short clip).
 
 2. **2–3 Slides**  
